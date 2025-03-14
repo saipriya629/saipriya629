@@ -1,24 +1,24 @@
-👋 Hi, I’m Bellamkonda Sai Priya (@saipriya629)
-🔍 Passionate about Data Analytics | Python Development | IT
-📊 Exploring insights from data & building analytical solutions!
+# 👋 Hi, I'm Bellamkonda Sai Priya!  
+🚀 Aspiring Data Analyst | Business Analyst | Python Developer | Tech Enthusiast  
 
-🚀 About Me
-🎓 Electronics & Communication Engineering Graduate
-🛠 Skills: Python, SQL, Power BI, Excel, C, MySQL
-🔍 Looking for: Data Analytics / Python Developer roles
-💡 Projects:
-Netflix Data Analysis (Power BI)
-Screen Recording in python
-Smart Waste Management System (IoT & Python)
-🌱 Currently Learning
-Advanced SQL for Data Analysis
-Power BI Dashboarding
-Data Visualization Best Practices
-💞 Looking to Collaborate On
-Data-driven projects
-Open-source contributions in analytics
-Python automation scripts
-📫 How to Reach Me
-LinkedIn | GitHub | Email: saipriyabellamkonda@gmail.com
+🔹 **About Me:**  
+- 🎓 B.Tech in Electronics & Communication Engineering  
+- 💡 Passionate about **Python, Data Analytics, SQL, and Business Analyst*  
+- 📊 Love working with **Power BI, Excel, and SQL for data-driven insights**  
+- 🌱 Currently learning **Advanced Python & Data Analytics**  
 
-⚡ Fun Fact: I love solving real-world problems with data!
+🔹 **Technical Skills:**  
+- 💻 Python, C, SQL, HTML, MySQL  
+- 📊 Power BI, Excel, Data Visualization  
+    
+
+🔹 **Certifications:**  
+- 📜 **Salesforce Developer Virtual Internship – AICTE**  
+- 📜 **SQL and Relational Databases – Cognitive Class**  
+- 📜 **Introduction to IoT - Cisco**  
+- 📜 **Cybersecurity Internship - Cisco**  
+
+🔹 **How to Reach Me:**  
+📩 **Email:** saipriyabellamkonda@gmail.com
+📱 **LinkedIn:** (https://linkedin.com/in/bellamkonda-sai-priya-0b6320248)  
+
